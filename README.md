@@ -1,1 +1,1 @@
-# practicing_js
+# 2.1 Introduction to programming;
