@@ -16,5 +16,13 @@ Adalaber.innerHTML = Adalaber.innerHTML + "Denise Troglio";
 //------------------------------------------------------------------------//
 
 
+/* EJERCICIO 6
+Lorem ipsum:
+Tenemos que crear una página HTML con un solo div, y usando JavaScript, añadir un h1 con el texto "Lorem ipsum", una imagen con el src http://via.placeholder.com/350x150 y un párrafo con el texto "Lorem ipsum dolor sit amet, consectetur adipisicing elit".*/
 
+const listElement = document.querySelector(".js_list");
+const TitleH1 = "<h1>Lorem ipsum</h1>";
+const Image = "<img src=http://via.placeholder.com/350x150>";
+const Paragraph = "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>";
 
+listElement.innerHTML = TitleH1 + Image + Paragraph ;

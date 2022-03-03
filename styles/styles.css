@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.adalaber{
+    color: #055160;
+    font-family: 'Cormorant Garamond', serif;
+}
