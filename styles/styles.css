@@ -10,3 +10,15 @@
   color: #055160;
   font-family: "Cormorant Garamond", serif;
 }
+
+.btn{
+  font-family: "Cormorant Garamond", serif;
+  font-weight: 900;
+  padding: 5px;
+  color: black;
+  background-color: aqua;
+  cursor: pointer;
+}
+.opacity{
+  opacity: 0.5;
+}
