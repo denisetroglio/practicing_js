@@ -3,7 +3,7 @@
 const Title = document.querySelector(".js_title");
 Title.innerHTML="Practicing JS";
 
-/* Ejercicio 4
+/* EJERCICIO 4
 Seleccionando Adalabers:
 Hay que crear una página HTML que contenga un listado con tu nombre y el de tu compañera, y un título que diga "La Adalaber seleccionada es: ". Usando JavaScript, tenemos que cambiar el título añadiendo el nombre del primer li. */
 
@@ -26,3 +26,12 @@ const Image = "<img src=http://via.placeholder.com/350x150>";
 const Paragraph = "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>";
 
 listElement.innerHTML = TitleH1 + Image + Paragraph ;
+
+//------------------------------------------------------------------------//
+//classList.add:
+
+const sectionB = document.querySelector('.section-b');
+sectionB.classList.add('hidden');
+
+//------------------------------------------------------------------------//
+
