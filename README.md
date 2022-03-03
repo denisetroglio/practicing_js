@@ -1,4 +1,4 @@
-# 2.1 Introduction to programming;
+# 2.1 Introduction to programming:
 
 ## 👨‍💻 Exercises:
 
@@ -18,3 +18,5 @@
 
 * How to read and modify the content of HTML tags.
 * How to add and remove classes from HTML tags.
+
+# 2.2 Introduction to programming 2:

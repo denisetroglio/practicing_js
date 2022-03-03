@@ -7,7 +7,7 @@
   display: none;
 }
 .adalaber {
-  color: #055160;
+  color: #3cdbc0;
   font-family: "Cormorant Garamond", serif;
 }
 
@@ -16,7 +16,7 @@
   font-weight: 900;
   padding: 5px;
   color: black;
-  background-color: aqua;
+  background-color: #3cdbc0;
   cursor: pointer;
 }
 .opacity{
