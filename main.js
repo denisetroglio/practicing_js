@@ -46,3 +46,13 @@ Crear dos botones sencillos con los mismos estilos (padding, borde, color) y, us
 
 const Btn2 = document.querySelector(".js_bottom2");
 Btn2.classList.add("opacity");
+
+//------------------------------------------------------------------------//
+
+/*getElementById:
+
+const mainTitle = document.getElementById('mainTitle');
+(no va precedido de #, no es necesario por que con getElementById ya estamos indicando que el selector será un id.)
+*/
+
+//------------------------------------------------------------------------//
