@@ -5,3 +5,5 @@
 * document.querySelector('.js_class').innerHTML;
 
 * classList.add;
+
+* classList.remove;

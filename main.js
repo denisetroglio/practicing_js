@@ -34,4 +34,8 @@ const sectionB = document.querySelector('.section-b');
 sectionB.classList.add('hidden');
 
 //------------------------------------------------------------------------//
+//classList.remove:
+const sectionA = document.querySelector('.section-a');
+sectionA.classList.remove('hidden');
 
+//------------------------------------------------------------------------//
