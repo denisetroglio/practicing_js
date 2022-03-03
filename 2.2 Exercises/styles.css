@@ -1,0 +1,12 @@
+.main {
+    background-color: pink;
+  }
+  
+  .main__title {
+    color: red;
+  }
+
+  .newclass{
+      color: blue;
+      font-weight: 900;
+  }

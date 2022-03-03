@@ -20,3 +20,5 @@
 * How to add and remove classes from HTML tags.
 
 # 2.2 Introduction to programming 2:
+
+## 👨‍💻 Exercises:
