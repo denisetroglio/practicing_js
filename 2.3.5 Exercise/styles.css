@@ -1,0 +1,35 @@
+.success{
+    background-color: #93f693;
+    border: solid 2px green;
+    color: #006101;
+    font-size: 50px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.error{
+    background-color: #8c2a36;
+    border: solid 2px #4a0e0e;
+    color: #4a0e0e;
+    font-size: 50px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.warning{
+    background-color: yellow;
+    border: solid 5px#ce8c04;
+    color: black;
+    font-size: 50px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
