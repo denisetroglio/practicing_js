@@ -2,23 +2,25 @@
 
 ## 👨‍💻 Exercises:
 
-* document.querySelector('.js_class').innerHTML;
+- document.querySelector('.js_class').innerHTML;
 
-* classList.add;
+- classList.add;
 
-* classList.remove;
+- classList.remove;
 
-* Deshabilitando botones;
+- Deshabilitando botones;
 
-* getElementById;
+- getElementById;
 
-### In this section: 
+### In this section:
 
-* How to use variables and constants in JavaScript to store values ​​and be able to use them later and also that our code is readable by other programmers.
+- How to use variables and constants in JavaScript to store values ​​and be able to use them later and also that our code is readable by other programmers.
 
-* How to read and modify the content of HTML tags.
-* How to add and remove classes from HTML tags.
+- How to read and modify the content of HTML tags.
+- How to add and remove classes from HTML tags.
 
 # 2.2 Introduction to programming 2:
 
 ## 👨‍💻 Exercises:
+
+- Create a new class with JS;
