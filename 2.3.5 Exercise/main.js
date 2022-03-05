@@ -11,11 +11,11 @@ const paragraph = document.querySelector(".js_paragraph");
 
 if (notificationMessage.classList.contains("warning")) {
   title.innerHTML = `AVISO`;
-  paragraph.innerHTML = "¡Tenga cuidado!";
+  paragraph.innerHTML = "¡Tenga cuidado! =0";
 } else if (notificationMessage.classList.contains("error")) {
   title.innerHTML = `ERROR`;
-  paragraph.innerHTML = "¡Ha surgido un error!";
+  paragraph.innerHTML = "¡Ha surgido un error! =/";
 } else if (notificationMessage.classList.contains("success")) {
   title.innerHTML = `CORRECTO`;
-  paragraph.innerHTML = "Los datos son correctos";
+  paragraph.innerHTML = "¡Los datos son correctos! =)";
 };

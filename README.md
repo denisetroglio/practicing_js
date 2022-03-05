@@ -41,3 +41,5 @@
 - Show an error message if a required field to fill in a form is missing.
 - Show the verified user symbol on Twitter if the account is verified.
 - Show a movie in favorites if it is marked as a favorite.
+
+# 2.4 Functions:
