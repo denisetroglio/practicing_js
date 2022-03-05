@@ -1,10 +1,10 @@
 'use strict';
 
 // avatar por defecto
-const DEFAULT_AVATAR = "<img src=https://static.vecteezy.com/system/resources/previews/002/002/257/non_2x/beautiful-woman-avatar-character-icon-free-vector.jpg>";
+const DEFAULT_AVATAR = "<img src=http://www.fillmurray.com/300/300>";
 
 // avatar que eligió el usuario al registrarse
-let userAvatar = "<img src=http://www.fillmurray.com/300/300>";
+let userAvatar = "";
 
 /* 1 - Hagamos la lógica para añadir, desde javascript, la imagen userAvatar a la etiqueta de HTML img.*/
 
