@@ -24,3 +24,6 @@
 ## 👨‍💻 Exercises:
 
 - Create a new class with JS;
+
+- Numbers;
+
