@@ -25,17 +25,19 @@
 
 - Create a new class with JS;
 
-- Numbers; 
+- Numbers;
 
 - Strings;
 
-# 2.3 Condicionales:
+# 2.3 Conditionals:
 
-## 1.Booleanos:
-- Guardar información del estilo, si el usuario está registrado o no, el campo se ha rellenado o no, etc.
-- Guardar info sobre si un número es mayor o menor, si dos strings son iguales o no, si una variable existe, si una cadena de texto está vacía, etc.
+## 1.Booleans:
 
-## 2.Condicionales:
-- Mostrar un mensaje de error si falta un campo obligatorio por rellenar en un formulario.
-- Mostrar el símbolo de usuario verificado en Twitter si la cuenta está verificada.
-- Mostrar una película en favoritos si está marcada como favorita.
+- Save style information, if the user is registered or not, the field has been filled in or not, etc.
+- Save info about whether a number is greater or less, if two strings are equal or not, if a variable exists, if a text string is empty, etc.
+
+## 2.Conditionals:
+
+- Show an error message if a required field to fill in a form is missing.
+- Show the verified user symbol on Twitter if the account is verified.
+- Show a movie in favorites if it is marked as a favorite.
