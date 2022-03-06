@@ -43,3 +43,5 @@
 - Show a movie in favorites if it is marked as a favorite.
 
 # 2.4 Functions:
+
+- Function with and without parameters;
