@@ -45,3 +45,8 @@
 # 2.4 Functions:
 
 - Function with and without parameters;
+- Arrow functions;
+- Anonymous functions;
+
+# 2.5 Events:
+
